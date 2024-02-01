@@ -19,4 +19,4 @@ The authors declare that they have no known competing financial interests or per
 This project was supported by the Hong Kong University of Science and Technology startup, the Guangdong Basic and Applied Basic Research Foundation (2019A1515010828 and 2023A1515030256), and the Strategic Topics Grant from Hong Kong Research Grants Council (STG2/E-605/23-N). The authors would like to thank Dr. Ren Chao for providing the climate data, Mr. Mingolla Stefano for suggestions, and Mr. Jiwei Li for initial exploration. The authors would also like to thank the anonymous reviewers for their valuable comments and suggestions. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the funding agencies in any form.
 
 ## Acknowledgement 
-If you have any inquiries regarding the building data and code, please feel free to contact us.
+If you have any inquiries regarding the building data and code, please feel free to contact us at [zhongminglu@ust.hk](zhongminglu@ust.hk) or [jhcwgtang@connect,ust.hk](jhcwgtang@connect,ust.hk).
