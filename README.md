@@ -1,4 +1,4 @@
-# Data-driven Urban Commercial Building Energy Use Intensity Classification Model in Hong Kong
+# Data-driven Commercial Urban Building Energy Use Intensity (C-UBEUI) Classification Model in Hong Kong
 This is the python code and sample data for the published paper titled "**_Use of publicly available data to create a dataset for data-driven urban commercial building energy intensity classification: Model accuracy, interpretation, and implications of an open data framework in Hong Kong_**", which has been published in **_[Sustainable Cities and Society](https://www.sciencedirect.com/science/article/pii/S221067072300673X)_**, Elsevier, in January 2024.
 
 ## Abstract
