@@ -9,6 +9,7 @@ Urban building energy modeling; Public data; Database construction; Data-driven 
 
 ## Framework
 The below figure displays the workflow of using publicly available data to create and integrate a Hong Kong commercial building database, developing the D-UBEM, and applying the D-UBEM to interpret and visualize the EUI.
+
 ![Framework](https://github.com/hkust-suscity/Commercial-Building-Energy-Use-Intensity-Modelling/blob/main/02_Sample-Data/Framework.jpg)
 
 ## Declaration of Competing Interest
