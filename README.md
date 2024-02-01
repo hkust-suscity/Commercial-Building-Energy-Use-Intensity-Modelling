@@ -1,4 +1,4 @@
-# Commercial-Building-Energy-Use-Intensity-Modelling
+# Data-driven urban commercial building energy intensity classification model
 This is the code and sample data for the publishsed paper named "Use of publicly available data to create a dataset for data-driven urban commercial building energy intensity classification: Model accuracy, interpretation, and implications of an open data framework in Hong Kong" published in Sustainable Cities and Society, Elesvier. 
 
 # Abstract
